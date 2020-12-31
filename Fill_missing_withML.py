@@ -1,4 +1,8 @@
 """
+You may have seen many ways and implementations to fill missing values up of your dataset. But most of them may give a high bias. 
+Here is another efficient way to predict missing values using Gradient Boosting Model where you can predict missing values with 
+values which may have some missing values too...
+
 Created on Sun Dec 20 21:28:04 2020
 @author: Rakib Mahmud
 """
